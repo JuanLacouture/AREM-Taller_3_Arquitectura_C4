@@ -9,10 +9,12 @@ _Taller X - [Nombre del Taller]_
 
 ## 📚 Referencias utilizadas
 
-1. Apellido, Nombre. *Título del libro o artículo*. Editorial, Año. URL o DOI.  
-2. Organización. *Especificación técnica o estándar consultado*. URL.  
-3. Sitio web institucional. "Título del artículo o página". [Enlace](https://ejemplo.com). Fecha de consulta: DD/MM/AAAA.  
-4. Otro recurso académico o técnico citado.
+- Brown, S. (2019). *C4 Model for Software Architecture*. Recuperado de: https://c4model.com  
+- The Open Group. (2022). *TOGAF® Standard, 10th Edition – Core Concepts*.  
+- Object Management Group (OMG). (2014). *Business Process Model and Notation (BPMN) Specification*.  
+- Ejemplos de integración ERP en sector salud y óptica. (2023). Reportes de la industria.  
+- Material de clase: Introducción a la Arquitectura Empresarial, Universidad de La Sabana:contentReference[oaicite:0]{index=0}.  
+- Material de clase: Modelado de Procesos con BPMN:contentReference[oaicite:1]{index=1}.  
 
 ---
 
