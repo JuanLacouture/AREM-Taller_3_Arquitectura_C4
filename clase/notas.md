@@ -37,4 +37,4 @@ Durante la sesión se trabajó en la **documentación de la arquitectura actual 
 
 ---
 
-_Este documento resume el trabajo colaborativo realizado durante la sesión del taller 3 en el curso AREM - Universidad de La Sabana._
+_Este documento resume el trabajo individual realizado durante la sesión del taller 3 en el curso AREM - Universidad de La Sabana._
